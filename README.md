@@ -1,11 +1,8 @@
 <!-- **Imhwitae/Imhwitae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=300&section=header&text=Hello?%20I'm%20hwitae%20Hwang&fontSize=60" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=300&section=header&text=Hello?%20I'm%20hwitae%20Hwang&fontSize=60" /> -->
 
-<h3 align="center">안녕하세요 프론트엔드 개발자 황휘태 입니다</h3>
-<br/>
-
-<div align="center">
+<!-- <div align="center">
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -28,5 +25,14 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
   </div>
-</div>
+</div> -->
 
+### 👋 안녕하세요 프론트엔드 개발자 황휘태입니다.
+
+### Skills
+---
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,react,next,tailwind)](https://skillicons.dev)
+
+### Works
+---
+- 웹 백오피스 개발 (2024.01 ~ 2025.02)
