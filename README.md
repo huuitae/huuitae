@@ -29,10 +29,8 @@
 
 ### 👋 안녕하세요 프론트엔드 개발자 황휘태입니다.
 
-### Skills
----
+## Skills   
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,react,next,tailwind)](https://skillicons.dev)
 
-### Works
----
+## Works
 - 웹 백오피스 개발 (2024.01 ~ 2025.02)
